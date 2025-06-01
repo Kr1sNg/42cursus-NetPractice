@@ -1,2 +1,3 @@
-# 42cursus-NetPractice
+# NetPractice 🕸️
+
 the Internet and the Networking 🕸️
